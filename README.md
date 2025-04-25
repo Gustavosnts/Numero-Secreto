@@ -26,13 +26,13 @@ Este é um jogo interativo "Adivinhe o Número Secreto" com um tema visual inspi
 
 ## Como Jogar
 
- 1.  Abra o arquivo `index.html` no seu navegador.
- 2.  Digite um número no campo "Defina o limite máximo" e clique em "Definir" para alterar o intervalo do jogo.
- 3.  Digite seu palpite no campo abaixo de "Escolha um número entre 1 ao limite pré definido".
- 4.  Clique no botão "Chutar" para verificar seu palpite.
- 5.  O jogo fornecerá dicas se o seu palpite estiver incorreto.
- 6.  Continue chutando até acertar o número secreto.
- 7.  Após acertar, você pode clicar em "Novo jogo" para começar outra partida.
+-     1.  Abra o arquivo `index.html` no seu navegador.
+-     2.  Digite um número no campo "Defina o limite máximo" e clique em "Definir" para alterar o intervalo do jogo.
+-     3.  Digite seu palpite no campo abaixo de "Escolha um número entre 1 ao limite pré definido".
+-     4.  Clique no botão "Chutar" para verificar seu palpite.
+-     5.  O jogo fornecerá dicas se o seu palpite estiver incorreto.
+-     6.  Continue chutando até acertar o número secreto.
+-     7.  Após acertar, você pode clicar em "Novo jogo" para começar outra partida.
 
 ## Notas
 
